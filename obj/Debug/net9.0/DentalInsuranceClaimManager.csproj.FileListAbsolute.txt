@@ -1,0 +1,14 @@
+/Users/kiransilwal/Documents/Kiran/Career/Internship Prep/DentalInsuranceClaimManager/bin/Debug/net9.0/DentalInsuranceClaimManager
+/Users/kiransilwal/Documents/Kiran/Career/Internship Prep/DentalInsuranceClaimManager/bin/Debug/net9.0/DentalInsuranceClaimManager.deps.json
+/Users/kiransilwal/Documents/Kiran/Career/Internship Prep/DentalInsuranceClaimManager/bin/Debug/net9.0/DentalInsuranceClaimManager.runtimeconfig.json
+/Users/kiransilwal/Documents/Kiran/Career/Internship Prep/DentalInsuranceClaimManager/bin/Debug/net9.0/DentalInsuranceClaimManager.dll
+/Users/kiransilwal/Documents/Kiran/Career/Internship Prep/DentalInsuranceClaimManager/bin/Debug/net9.0/DentalInsuranceClaimManager.pdb
+/Users/kiransilwal/Documents/Kiran/Career/Internship Prep/DentalInsuranceClaimManager/obj/Debug/net9.0/DentalInsuranceClaimManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kiransilwal/Documents/Kiran/Career/Internship Prep/DentalInsuranceClaimManager/obj/Debug/net9.0/DentalInsuranceClaimManager.AssemblyInfoInputs.cache
+/Users/kiransilwal/Documents/Kiran/Career/Internship Prep/DentalInsuranceClaimManager/obj/Debug/net9.0/DentalInsuranceClaimManager.AssemblyInfo.cs
+/Users/kiransilwal/Documents/Kiran/Career/Internship Prep/DentalInsuranceClaimManager/obj/Debug/net9.0/DentalInsuranceClaimManager.csproj.CoreCompileInputs.cache
+/Users/kiransilwal/Documents/Kiran/Career/Internship Prep/DentalInsuranceClaimManager/obj/Debug/net9.0/DentalInsuranceClaimManager.dll
+/Users/kiransilwal/Documents/Kiran/Career/Internship Prep/DentalInsuranceClaimManager/obj/Debug/net9.0/refint/DentalInsuranceClaimManager.dll
+/Users/kiransilwal/Documents/Kiran/Career/Internship Prep/DentalInsuranceClaimManager/obj/Debug/net9.0/DentalInsuranceClaimManager.pdb
+/Users/kiransilwal/Documents/Kiran/Career/Internship Prep/DentalInsuranceClaimManager/obj/Debug/net9.0/DentalInsuranceClaimManager.genruntimeconfig.cache
+/Users/kiransilwal/Documents/Kiran/Career/Internship Prep/DentalInsuranceClaimManager/obj/Debug/net9.0/ref/DentalInsuranceClaimManager.dll
